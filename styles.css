@@ -1,0 +1,18 @@
+canvas {
+  background-color: #FFFFFF;
+  width: 350px;
+  height: 200px;
+  border:1px solid #000000;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
